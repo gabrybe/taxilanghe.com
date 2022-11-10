@@ -1,0 +1,23 @@
+try { if(typeof(jQuery)=='function'){ var jQueryBefore = jQuery; }} catch (e) { if(console&&console.log)console.log(e);else alert(e); }
+
+/*
+     FILE ARCHIVED ON 05:33:47 Dec 26, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:13:03 Dec 02, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 139.554 (3)
+  esindex: 0.014
+  captures_list: 161.687
+  CDXLines.iter: 15.989 (3)
+  PetaboxLoader3.datanode: 169.108 (4)
+  exclusion.robots: 0.296
+  exclusion.robots.policy: 0.274
+  RedisCDXSource: 1.748
+  PetaboxLoader3.resolve: 32.202
+  load_resource: 86.719
+*/

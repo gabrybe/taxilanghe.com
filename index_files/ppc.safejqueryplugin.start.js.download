@@ -1,0 +1,33 @@
+try {
+	if (typeof (jQuery) == 'function' && typeof($jppc)!='undefined') {
+		var jQueryPluginBefore = jQuery;
+		jQuery = $jppc;
+	}
+} catch (e) {
+	if (console && console.log)
+		console.log(e);
+	else
+		alert(e);
+}
+
+/*
+     FILE ARCHIVED ON 05:45:37 Dec 26, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:13:04 Dec 02, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 33.517 (3)
+  esindex: 0.012
+  captures_list: 52.07
+  CDXLines.iter: 12.826 (3)
+  PetaboxLoader3.datanode: 43.663 (4)
+  exclusion.robots: 0.306
+  exclusion.robots.policy: 0.29
+  RedisCDXSource: 1.795
+  PetaboxLoader3.resolve: 26.658
+  load_resource: 49.098
+*/

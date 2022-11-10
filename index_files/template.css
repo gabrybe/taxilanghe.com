@@ -1,0 +1,46 @@
+div.mod-languages ul {
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+div.mod-languages li {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+div.mod-languages ul.lang-inline li {
+	display:inline;
+}
+
+div.mod-languages ul.lang-block li {
+	display:block;
+}
+
+div.mod-languages img {
+	border:none;
+}
+
+div.mod-languages a {
+	text-decoration: none;
+}
+/*
+     FILE ARCHIVED ON 05:22:05 Dec 26, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:13:02 Dec 02, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 253.503 (3)
+  esindex: 0.01
+  captures_list: 269.488
+  CDXLines.iter: 12.269 (3)
+  PetaboxLoader3.datanode: 126.795 (4)
+  exclusion.robots: 0.191
+  exclusion.robots.policy: 0.176
+  RedisCDXSource: 0.674
+  PetaboxLoader3.resolve: 26.968
+  load_resource: 88.264
+*/

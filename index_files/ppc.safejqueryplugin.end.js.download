@@ -1,0 +1,33 @@
+try {
+	if (jQueryPluginBefore && jQueryPluginBefore.fn.jquery && typeof($jppc)!='undefined') {
+		$jppc = jQuery;
+		jQuery = jQueryPluginBefore;
+	}
+} catch (e) {
+	if (console && console.log)
+		console.log(e);
+	else
+		alert(e);
+}
+
+/*
+     FILE ARCHIVED ON 04:11:41 Dec 26, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:13:04 Dec 02, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 63.022 (3)
+  esindex: 0.007
+  captures_list: 80.271
+  CDXLines.iter: 11.204 (3)
+  PetaboxLoader3.datanode: 67.346 (4)
+  exclusion.robots: 0.154
+  exclusion.robots.policy: 0.144
+  RedisCDXSource: 3.787
+  PetaboxLoader3.resolve: 25.66
+  load_resource: 170.392
+*/
